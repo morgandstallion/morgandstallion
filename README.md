@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=morgandstallion)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=morgandstallion&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!--
 **morgandstallion/morgandstallion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
